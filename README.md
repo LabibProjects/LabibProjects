@@ -16,4 +16,6 @@ Just figuring out what i am doing.
 ![](https://github-profile-trophy.vercel.app/?username=LabibProjects&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake animation](https://github.com/<seu LabibProjects>/<seu Labibi Projects>/blob/output/github-contribution-grid-snake2.svg)
+
+
+![snake gif](https://github.com/LabibProjects/LabibProjects/blob/output/github-snake-dark.svg)
