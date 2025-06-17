@@ -18,4 +18,4 @@ Just figuring out what I am doing.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake animation](https://github.com/<seu LabibProjects>/<seu LabibProjects>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/{LabibProjects}/{LabibProjects}/output/github-contribution-grid-snake-dark.svg)
