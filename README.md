@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just figuring out what i am doing.
+Just figuring out what I am doing.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ Just figuring out what i am doing.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/LabibProjects/LabibProjects/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/<seu LabibProjects>/<seu LabibProjects>/blob/output/github-contribution-grid-snake2.svg)
